@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ErXodus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ErXodus\\.nuget\\packages"
+    ]
+  }
+}

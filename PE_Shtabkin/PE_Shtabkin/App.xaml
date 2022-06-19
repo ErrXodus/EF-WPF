@@ -1,0 +1,9 @@
+﻿<Application x:Class="PE_Shtabkin.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:pe_shtabkin="clr-namespace:PE_Shtabkin"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+       
+    </Application.Resources>
+</Application>

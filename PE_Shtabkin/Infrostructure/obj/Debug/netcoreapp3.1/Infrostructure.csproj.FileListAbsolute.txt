@@ -1,0 +1,12 @@
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.deps.json
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.dll
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.pdb
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.csproj.AssemblyReference.cache
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.AssemblyInfoInputs.cache
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.AssemblyInfo.cs
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.csproj.CoreCompileInputs.cache
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.dll
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.pdb
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.runtimeconfig.json
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.runtimeconfig.dev.json
+D:\HSHSHSHSHSHSH\PE_Shtabkin\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.genruntimeconfig.cache

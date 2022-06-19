@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PE_Shtabkin_Forms</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:PE_Shtabkin.Admin" -->
+        <member name="M:PE_Shtabkin.Admin.#ctor">
+            <summary>
+            Инициализация формы и загрзка контекста
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.Updape">
+            <summary>
+            Получение и вывод машин
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Добавление машин через шаблон
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.UploadToComboboxes">
+            <summary>
+            Загрзка возможных вариантов характеристик тарифа
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.button_Copy_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Изменение сушествующего тарифа
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.UploatToTextBoxes(Infrostructure.Car)">
+            <summary>
+            Загрузка выбранной машины в поля
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="Result">Car</param>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.dataGrid_SelectedCellsChanged(System.Object,System.Windows.Controls.SelectedCellsChangedEventArgs)">
+            <summary>
+            Загрузка выбранной машины
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.button_Copy1_Click_1(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Добавление новой машины
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Admin.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:PE_Shtabkin.Client" -->
+        <member name="M:PE_Shtabkin.Client.GeneralLoad">
+            <summary>
+            Загрузка машин из контекста с условием
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Client.#ctor">
+            <summary>
+            Инициализация формы
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Client.Update">
+            <summary>
+            Обновление таблицы с машинами
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Client.UploadToComboboxes">
+            <summary>
+            Выгрузка доступных значений для фильтрации в списки
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Client.OrderBy">
+            <summary>
+            Выполнение сортировки по выбранным параметрам
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.Client.button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Вызов формы авторизации
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.button_Copy_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Выход из приложения
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.button_Copy1_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Заказ автомобиля
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.comboBox_Copy2_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Событие смены вида сортировки
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.comboBox_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Вывод машин в выбранной стране
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.comboBox_Copy_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Вывод машин в выбранном городе
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.comboBox_Copy1_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Фильтрация машин по месту
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.dataGrid_SelectedCellsChanged(System.Object,System.Windows.Controls.SelectedCellsChangedEventArgs)">
+            <summary>
+            Загрузка выбранного тарифа
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.UploatToTextBoxes(Infrostructure.Car)">
+            <summary>
+            Загрузка выбранной машины в поля
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="Result">Car</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.textBox_TextChanged(System.Object,System.Windows.Controls.TextChangedEventArgs)">
+            <summary>
+            Событие изменения арендных дней в поле
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.textBox_Copy_TextChanged(System.Object,System.Windows.Controls.TextChangedEventArgs)">
+            <summary>
+            Событие изменения арендных дней в поле
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.button_Copy1_Click_1(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Обновление списка
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.Client.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:PE_Shtabkin.MainWindow" -->
+        <member name="M:PE_Shtabkin.MainWindow.#ctor">
+            <summary>
+            Инициализация формы и загрузка пользователей с контекста
+            </summary>
+            /// <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+        </member>
+        <member name="M:PE_Shtabkin.MainWindow.button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <item>
+            <term>button_Click</term>
+            <description>Регистрация новых пользователей</description>
+            </item>
+            <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.MainWindow.button_Copy_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <item>
+            <term>button_Copy_Click</term>
+            <description>Вход в приложение</description>
+            </item>
+            <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.MainWindow.button_Copy1_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <item>
+            <term>button_Copy1_Click</term>
+            <description>Безусловный вход в приложение</description>
+            </item>
+            <exception cref="T:System.Exception">
+            Возникает при отсутствии подключения к базе данных</exception>
+            <param name="sender">Объект</param>
+            <param name="e">Событие</param>
+        </member>
+        <member name="M:PE_Shtabkin.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:PE_Shtabkin.App">
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:PE_Shtabkin.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:PE_Shtabkin.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+    </members>
+</doc>
